@@ -1,8 +1,17 @@
-**Github Profile Finder**
+# Github-Finder
 
-Basic Github profile finder.
-* Search profiles by username and lists user information and repos.
+[**Click to see demo**](https://jsfiddle.net/yLmu5bo1/)
 
-TODO:
-* Add pagination to repos.
+**Github-Finder** developed to learn *javascript*. So, this is not a professional project. There might be lots of errors. 
 
+This project aims to fetch Github users data from Github API.
+
+## Usage
+
+You can set your own client id and client secret in the *Github.js* file. After that, just click to the *index.html* and **search** something.
+
+## TODO List
+
+ - [ ] Add some informations like favorite languages of user.
+ - [ ] Add pagination to the repositories list.
+ - [ ] Add charts
